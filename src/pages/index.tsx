@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div className="text-white">
       <div>
-        <a>lol
+        <a>lolo
         </a>
       </div>
     </div>
